@@ -3,7 +3,7 @@ const fromCurrencyEl = document.getElementById("fromCurrency");
 const toCurrencyEl = document.getElementById("toCurrency");
 const resultEl = document.getElementById("result");
 const convertBtn = document.getElementById("convertBtn");
-console.log("This will create a conflict");
+console.log("conflict version from conflict branch real");
 // Static conversion rates relative to USD
 const rates = {
   USD: 1,
